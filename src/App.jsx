@@ -235,7 +235,7 @@ export default function App() {
       <footer className="app-footer">
         <div className="footer-content">
           <p className="footer-main-text">
-            developed and powered by Sundar made for the innovative games
+            Developed and Powered by Sundar
           </p>
           <p className="footer-sub-text">
             🎮 Modern score tracking, continuous celebration blasts &amp; live analytics
